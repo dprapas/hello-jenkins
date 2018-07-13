@@ -1,3 +1,4 @@
 Hello Jenkins
 
-This is a test project
+This is a test project for Jenkins pipelines
+
